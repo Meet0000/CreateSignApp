@@ -19,3 +19,5 @@ and colors, and use freehand drawing tools for customization. Additionally, user
 can save their personalized signs within the application or download them for use 
 in other digital formats. This tool aims to make the process of creating a digital 
 identity simple and accessible for users regardless of their technical background.
+![image](https://github.com/user-attachments/assets/8def7a40-623d-43b4-b045-074ff0fc1571)
+
